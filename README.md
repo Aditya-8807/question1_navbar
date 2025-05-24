@@ -1,6 +1,6 @@
 # 🌐 CREATIVE NAVBAR
 
-This is a simple and responsive React.js website built for the **SARC Web Portfolio Assignment**. It includes multiple pages and navigation using **React Router**, styled with custom CSS also included a smooth slider using c
+This is a simple and responsive React.js website built for the **SARC Web Portfolio Assignment**. It includes multiple pages and navigation using **React Router**, styled with custom CSS also included a smooth slider using carousel
 
 
 ## 🛠️ Installation & Setup
