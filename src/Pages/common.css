@@ -1,0 +1,59 @@
+h2 {
+  font-family: 'Georgia', serif;
+  font-size: 32px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+p {
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+  margin-left: 20px;
+
+}
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin-top: 20px;
+}
+
+.contact-form label {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.contact-form input,.contact-form textarea {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-top: 5px;
+}
+
+.contact-form button {
+  padding: 10px;
+  background-color: #0d47a1;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+  background-color: #1565c0;
+}
+.contact-wrapper {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.carousel-wrapper {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
